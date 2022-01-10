@@ -1,4 +1,4 @@
-about.json                                              ⠀⎯⠀❐⠀⤬  
+about.json                                          ⎯⠀❐⠀⤬  
 {  
 "username" : "MrAalen",  
 "qualities" : "Python, SQL, HTML, PHP, CSS",  
