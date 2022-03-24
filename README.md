@@ -2,7 +2,7 @@ about.json
 {  
 "username" : "MrAalen",  
 "qualities" : "Python, SQL, HTML, PHP, CSS",  
-"discord_tag" : "Aale'N#3306",  
+"discord_tag" : "Aale'N#0001",  
 "disclaimer" : "The discord tag may be outdated :P"  
 }  
 
