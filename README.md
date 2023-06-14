@@ -3,8 +3,8 @@
 {  
 "username" : "MrAalen",  
 "qualities" : "Python, SQL, HTML, PHP, CSS",  
-"discord_tag" : "Aale'N#0001",  
-"disclaimer" : "The discord tag might be outdated :P",  
+"discord_username" : "aalen",  
+"disclaimer" : "The discord username might be outdated :P",  
 "disclaimer2" : "This entire file might be outdated"
 }
 ```
